@@ -1,1 +1,2 @@
 # showMyName
+npm i showMyName

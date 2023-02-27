@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name",
+  "version": "1.0.0",
+  "description": "swn student twy ko san ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhkhizil/showMyName.git"
+  },
+  "keywords": [
+    "show-my-name"
+  ],
+  "author": "Thurein Zaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhkhizil/showMyName/issues"
+  },
+  "homepage": "https://github.com/mhkhizil/showMyName#readme"
+}
